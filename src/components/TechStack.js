@@ -41,14 +41,14 @@ const TechStack = () => {
             return (
               <div
                 key={index}
-                className="flex items-center cursor-pointer w-[50px] h-[50px] sm:w-[54px] sm:h-[54px] md:w-[64px] md:h-[64px] hover:scale-125 mb-[12px] float-left transition duration-200 bg-white mr-[12px] shadow-[0px_4px_40px_0px_rgba(9,9,12,0.2)] text-[#E44D26]   rounded-full"
+                className="flex items-center cursor-pointer w-[48px] h-[48px] sm:w-[54px] sm:h-[54px] md:w-[64px] md:h-[64px] hover:scale-125 mb-[12px] float-left transition duration-200 bg-white mr-[12px] shadow-[0px_4px_40px_0px_rgba(9,9,12,0.2)] text-[#E44D26]   rounded-full"
               >
                 {tech}
               </div>
             );
           })}
           <div>
-            <div className="flex items-center cursor-pointer w-[50px] h-[50px] sm:w-[54px] sm:h-[54px] md:w-[64px] md:h-[64px]  hover:scale-125 mb-[12px] transition duration-300 bg-white mr-[12px] shadow-[0px_4px_40px_0px_rgba(9,9,12,0.2)] text-[#A259FF] rounded-full">
+            <div className="flex items-center cursor-pointer w-[48px] h-[48px] sm:w-[54px] sm:h-[54px] md:w-[64px] md:h-[64px]  hover:scale-125 mb-[12px] transition duration-300 bg-white mr-[12px] shadow-[0px_4px_40px_0px_rgba(9,9,12,0.2)] text-[#A259FF] rounded-full">
               <img
                 alt="Figma"
                 loading="lazy"
@@ -59,17 +59,17 @@ const TechStack = () => {
           </div>
         </div>
         <div className="mt-[20px]">
-          <div className="flex items-center cursor-pointer w-[50px] h-[50px] sm:w-[54px] sm:h-[54px] md:w-[64px] md:h-[64px] hover:scale-125 transition float-left mb-[12px] duration-200 bg-white mr-[12px] shadow-[0px_4px_40px_0px_rgba(9,9,12,0.2)] text-[#599636]   rounded-full">
+          <div className="flex items-center cursor-pointer w-[48px] h-[48px] sm:w-[54px] sm:h-[54px] md:w-[64px] md:h-[64px] hover:scale-125 transition float-left mb-[12px] duration-200 bg-white mr-[12px] shadow-[0px_4px_40px_0px_rgba(9,9,12,0.2)] text-[#599636]   rounded-full">
             <SiMongodb className="mx-auto w-[28px] h-[28px] md:w-[34px] md:h-[34px]" />
           </div>
-          <div className="flex items-center cursor-pointer w-[50px] h-[50px] sm:w-[54px] sm:h-[54px] md:w-[64px] md:h-[64px] hover:scale-125 float-left transition mb-[12px] duration-200 bg-white mr-[12px] shadow-[0px_4px_40px_0px_rgba(9,9,12,0.2)] text-black   rounded-full">
+          <div className="flex items-center cursor-pointer w-[48px] h-[48px] sm:w-[54px] sm:h-[54px] md:w-[64px] md:h-[64px] hover:scale-125 float-left transition mb-[12px] duration-200 bg-white mr-[12px] shadow-[0px_4px_40px_0px_rgba(9,9,12,0.2)] text-black   rounded-full">
             <SiExpress className="mx-auto w-[28px] h-[28px] md:w-[34px] md:h-[34px]" />
           </div>
 
-          <div className="flex items-center cursor-pointer w-[50px] h-[50px] sm:w-[54px] sm:h-[54px] md:w-[64px] md:h-[64px] hover:scale-125 float-left transition mb-[12px] duration-200 bg-white mr-[12px] shadow-[0px_4px_40px_0px_rgba(9,9,12,0.2)] text-[#8CC84B]   rounded-full">
+          <div className="flex items-center cursor-pointer w-[48px] h-[48px] sm:w-[54px] sm:h-[54px] md:w-[64px] md:h-[64px] hover:scale-125 float-left transition mb-[12px] duration-200 bg-white mr-[12px] shadow-[0px_4px_40px_0px_rgba(9,9,12,0.2)] text-[#8CC84B]   rounded-full">
             <SiNodedotjs className="mx-auto w-[28px] h-[28px] md:w-[34px] md:h-[34px]" />
           </div>
-          <div className="flex items-center cursor-pointer w-[50px] h-[50px] md:w-[64px] md:h-[64px] hover:scale-125 float-left mb-[12px] justify-center transition duration-300 bg-white mr-[12px] shadow-[0px_4px_40px_0px_rgba(9,9,12,0.2)] text-[#A259FF] rounded-full">
+          <div className="flex items-center cursor-pointer w-[48px] h-[48px] md:w-[64px] md:h-[64px] hover:scale-125 float-left mb-[12px] justify-center transition duration-300 bg-white mr-[12px] shadow-[0px_4px_40px_0px_rgba(9,9,12,0.2)] text-[#A259FF] rounded-full">
             <img
               alt="Cloudinary"
               loading="lazy"
