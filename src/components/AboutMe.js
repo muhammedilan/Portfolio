@@ -6,7 +6,7 @@ const AboutMe = () => {
       <h1 className="text-[22px] sm:text-[24px] text-center mb-[100px] mt-4">
         About Me
       </h1>
-      <div className="font-medium text-[18px] sm:text-[22px]  sm:mt-0">
+      <div className="font-medium text-[16px] sm:text-[22px]  sm:mt-0">
         Hello, I'm Muhammed Ilan, I'm 15 years old, I'm going to high school now
         and I'm thinking of going to university in the future. I have been
         interested in web technologies for a long time. I am experienced in
