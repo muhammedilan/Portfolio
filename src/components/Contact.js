@@ -28,7 +28,7 @@ const Contact = () => {
     >
       <form
         ref={form}
-        className="bg-white shadow-md  p-4 font-medium text-[15.5px] shadow-white w-[420px] h-[530px] rounded-lg "
+        className="bg-white shadow-md  p-4 font-medium text-[15.5px] shadow-white w-[420px] h-[560px] rounded-lg "
         onSubmit={sendEmail}
       >
         <h1 className="text-center font-semibold text-[24px] text-[#0ca6ff]">
