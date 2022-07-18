@@ -49,7 +49,7 @@ const Contact = () => {
         <textarea
           name="Message"
           placeholder="You can write a message for advertisement or job offer"
-          className="w-full p-2 ring-2 mt-8 ring-gray-400 rounded-lg h-[100px] max-h-[130px] sm:max-h-[160px] bg-white outline-none focus:ring-2 focus:ring-[#0ca6ff] transition duration-300"
+          className="w-full p-2 ring-2 mt-8 ring-gray-400 rounded-lg h-[100px] max-h-[130px] bg-white outline-none focus:ring-2 focus:ring-[#0ca6ff] transition duration-300"
         ></textarea>
         <button
           type="submit"
