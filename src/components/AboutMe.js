@@ -2,7 +2,7 @@ import React from "react";
 
 const AboutMe = () => {
   return (
-    <div className="h-[100vh] flex flex-col  font-semibold px-3 sm:px-0 text-black relative mx-auto container">
+    <div className="h-[100vh] overflow-hidden flex flex-col  font-semibold px-3 sm:px-0 text-black relative mx-auto container">
       <h1 className="text-[24px] text-center mb-[100px] mt-4">
         About Me
       </h1>
