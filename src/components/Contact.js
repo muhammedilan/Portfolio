@@ -24,7 +24,7 @@ const Contact = () => {
   return (
     <div
       className="h-[100vh] px-3 sm:px-0 flex justify-center items-center
-    bg-[#0ca6ff]"
+    bg-[#0ca6ff] z-10"
     >
       <form
         ref={form}
