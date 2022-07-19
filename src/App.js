@@ -210,7 +210,7 @@ function App() {
         <div ref={aboutMePage}>
           <AboutMe />
         </div>
-        <div className="z-10" ref={contactPage}>
+        <div ref={contactPage}>
           <Contact />
         </div>
       </main>
