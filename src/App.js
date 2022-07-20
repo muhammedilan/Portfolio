@@ -207,7 +207,7 @@ function App() {
         <div ref={projectsPage}>
           <Projects />
         </div>
-        <div ref={aboutMePage}>
+        <div className="-z-10" ref={aboutMePage}>
           <AboutMe />
         </div>
         <div ref={contactPage}>
