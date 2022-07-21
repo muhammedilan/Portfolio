@@ -60,8 +60,8 @@ const Contact = () => {
         <p className="text-[13.5px] text-black font-medium mt-8">
           If you want to send a message to my e-mail address directly, my e-mail
           address is{" "}
-          <a href="mailto:muhammedilan474@gmail.com" className="text-[#0ca6ff]">
-            muhammedilan474@gmail.com
+          <a href="mailto:muhammedilan04@outlook.com" className="text-[#0ca6ff]">
+           muhammedilan04@outlook.com
           </a>
         </p>
       </form>
